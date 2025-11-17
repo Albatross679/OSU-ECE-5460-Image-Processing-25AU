@@ -3,6 +3,7 @@
 
 # But don't ignore this .gitignore file itself
 !.gitignore
+!.README.md
 
 # And don't ignore the folder we actually want to track
 !/Project 3/
